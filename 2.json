@@ -1,0 +1,88 @@
+{
+    "supplier_data": [
+        {
+            "Supplier Name": "Supplier X",
+            "Invoice Number": "001-1001",
+            "Part Number": "2341",
+            "Cost": "$500.00",
+            "Purchase Date": "1/20/14"
+        },
+        {
+            "Supplier Name": "Supplier X",
+            "Invoice Number": "001-1001",
+            "Part Number": "2341",
+            "Cost": "$500.00",
+            "Purchase Date": "1/20/14"
+        },
+        {
+            "Supplier Name": "Supplier X",
+            "Invoice Number": "001-1001",
+            "Part Number": "5467",
+            "Cost": "$750.00",
+            "Purchase Date": "1/20/14"
+        },
+        {
+            "Supplier Name": "Supplier X",
+            "Invoice Number": "001-1001",
+            "Part Number": "5467",
+            "Cost": "$750.00",
+            "Purchase Date": "1/20/14"
+        },
+        {
+            "Supplier Name": "Supplier Y",
+            "Invoice Number": "50-9501",
+            "Part Number": "7009",
+            "Cost": "$250.00",
+            "Purchase Date": "1/30/14"
+        },
+        {
+            "Supplier Name": "Supplier Y",
+            "Invoice Number": "50-9501",
+            "Part Number": "7009",
+            "Cost": "$250.00",
+            "Purchase Date": "1/30/14"
+        },
+        {
+            "Supplier Name": "Supplier Y",
+            "Invoice Number": "50-9505",
+            "Part Number": "6650",
+            "Cost": "$125.00",
+            "Purchase Date": "2/3/14"
+        },
+        {
+            "Supplier Name": "Supplier Y",
+            "Invoice Number": "50-9505",
+            "Part Number": "6650",
+            "Cost": "$125.00",
+            "Purchase Date": "2/3/14"
+        },
+        {
+            "Supplier Name": "Supplier Z",
+            "Invoice Number": "920-4803",
+            "Part Number": "3321",
+            "Cost": "$615.00",
+            "Purchase Date": "2/3/14"
+        },
+        {
+            "Supplier Name": "Supplier Z",
+            "Invoice Number": "920-4804",
+            "Part Number": "3321",
+            "Cost": "$615.00",
+            "Purchase Date": "2/10/14"
+        },
+        {
+            "Supplier Name": "Supplier Z",
+            "Invoice Number": "920-4805",
+            "Part Number": "3321",
+            "Cost": "$615.00",
+            "Purchase Date": "2/17/14"
+        },
+        {
+            "Supplier Name": "Supplier Z",
+            "Invoice Number": "920-4806",
+            "Part Number": "3321",
+            "Cost": "$615.00",
+            "Purchase Date": "2/24/14"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{  
+  "userTable" : 
+          [
+            { "ID" : "AAA", "NAME":"에이", "ADDR": "서울"},
+            { "ID" : "BBB", "NAME":"삐이", "ADDR": "경기"},
+            { "ID" : "CCC", "NAME":"씨이", "ADDR": "강원"}
+          ]
+}

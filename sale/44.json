@@ -1,0 +1,46 @@
+{
+    "sales_march_2014": [
+        {
+            "Customer ID": "1234",
+            "Customer Name": "John Smith",
+            "Invoice Number": "100-0014",
+            "Sale Amount": "$1,350.00",
+            "Purchase Date": "3/4/14"
+        },
+        {
+            "Customer ID": "8765",
+            "Customer Name": "Tony Song",
+            "Invoice Number": "100-0015",
+            "Sale Amount": "$1,167.00",
+            "Purchase Date": "3/8/14"
+        },
+        {
+            "Customer ID": "2345",
+            "Customer Name": "Mary Harrison",
+            "Invoice Number": "100-0016",
+            "Sale Amount": "$1,789.00",
+            "Purchase Date": "3/17/14"
+        },
+        {
+            "Customer ID": "6543",
+            "Customer Name": "Rachel Paz",
+            "Invoice Number": "100-0017",
+            "Sale Amount": "$2,042.00",
+            "Purchase Date": "3/22/14"
+        },
+        {
+            "Customer ID": "3456",
+            "Customer Name": "Lucy Gomez",
+            "Invoice Number": "100-0018",
+            "Sale Amount": "$1,511.00",
+            "Purchase Date": "3/28/14"
+        },
+        {
+            "Customer ID": "4321",
+            "Customer Name": "Susan Wallace",
+            "Invoice Number": "100-0019",
+            "Sale Amount": "$2,280.00",
+            "Purchase Date": "3/30/14"
+        }
+    ]
+}
